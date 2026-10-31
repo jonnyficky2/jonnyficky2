@@ -1,24 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jonny Ficky Felyang</h1>
 <h3 align="center">A Web Developer from Indonesia</h3>
 
-<svg xmlns="http://w3.org" viewBox="0 0 100 100" width="200" height="200">
-  <style>
-    /* Efek animasi fade-in-out atau berdenyut pada siluet */
-    .siluet-animasi {
-      fill: #1A1A1A; /* Mengubah warna menjadi siluet gelap */
-      animation: pulse 3s infinite ease-in-out;
-    }
+<div align="center">
 
-    @keyframes pulse {
-      0% { opacity: 0.4; }
-      50% { opacity: 1; }
-      100% { opacity: 0.4; }
-    }
-  </style>
-  
-  <!-- Ganti tag path di bawah ini dengan path siluet asli Anda -->
-  <path class="siluet-animasi" d="M10 10 H 90 V 90 H 10 Z" />
-</svg>
+<img src="assets/myprofile-animated.svg" width="380" alt="jonnyficky2">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=450&lines=Halo+gua+jonnyficky2;Lagi+belajar+ngoding)](https://git.io/typing-svg)
+
+</div>
 
 
 

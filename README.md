@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="profile-animated.svg" width="380" alt="jonnyficky2">
+<img src="myprofile.svg" width="380" alt="jonnyficky2">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=450&lines=Halo+gua+jonnyficky2;Lagi+belajar+ngoding)](https://git.io/typing-svg)
 

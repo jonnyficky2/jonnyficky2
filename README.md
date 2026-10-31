@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jonny Ficky Felyang</h1>
 <h3 align="center">A Web Developer from Indonesia</h3>
 
+<p align="center">
+  <img src="./profile.svg" alt="Siluet" width="400" />
+</p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonnyficky2&label=Profile%20views&color=0e75b6&style=flat" alt="jonnyficky2" /> </p>
 
 - 👨‍💻 All of my projects are available at [jonnyficky2.github.io/Portofolio/](jonnyficky2.github.io/Portofolio/)

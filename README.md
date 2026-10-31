@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Jonny Ficky Felyang</h1>
-<h3 align="center">A Web Developer from Indonesia</h3>
-
 <div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:2b2b2b,100:9e9e9e&height=120&section=header)
+
+<h1>Hi 👋, I'm Jonny Ficky Felyang</h1>
+<h3>A Web Developer from Indonesia</h3>
 
 <img src="myprofile.svg" width="380" alt="jonnyficky2">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=450&lines=Halo+gua+jonnyficky2;Lagi+belajar+ngoding)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9E9E9E&center=true&vCenter=true&width=450&lines=Halo+gua+jonnyficky2;Lagi+belajar+ngoding)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=jonnyficky2&label=Profile%20views&color=555555&style=flat" alt="profile views" />
 
 </div>
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jonnyficky2&label=Profile%20views&color=0e75b6&style=flat" alt="jonnyficky2" /> </p>
-
-- 👨‍💻 All of my projects are available at [jonnyficky2.github.io/Portofolio/](jonnyficky2.github.io/Portofolio/)
+- 👨‍💻 All of my projects are available at [jonnyficky2.github.io/Portofolio](https://jonnyficky2.github.io/Portofolio/)
 
 - 📫 How to reach me **jonnyficky2@gmail.com**
 
@@ -26,8 +26,21 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=androidstudio,blender,css,dart,docker,firebase,flask,flutter,git,java,js,linux,mongodb,mysql,nodejs,php,postman,ps,py,react,sklearn,ts&perline=11" alt="skills" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonnyficky2&show_icons=true&locale=en&layout=compact" alt="jonnyficky2" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonnyficky2&" alt="jonnyficky2" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jonnyficky2&layout=compact&hide_border=true&bg_color=00000000&title_color=9a9a9a&text_color=9a9a9a" alt="top languages" />
+
+<img src="https://streak-stats.demolab.com/?user=jonnyficky2&theme=transparent&hide_border=true&stroke=9a9a9a&ring=9a9a9a&fire=9a9a9a&currStreakNum=9a9a9a&sideNums=9a9a9a&currStreakLabel=9a9a9a&sideLabels=9a9a9a&dates=9a9a9a" alt="streak stats" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jonnyficky2/jonnyficky2/output/github-contribution-grid-snake-dark.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/jonnyficky2/jonnyficky2/output/github-contribution-grid-snake.svg">
+</picture>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:9e9e9e,100:2b2b2b&height=120&section=footer)
+
+</div>

@@ -1,9 +1,25 @@
 <h1 align="center">Hi 👋, I'm Jonny Ficky Felyang</h1>
 <h3 align="center">A Web Developer from Indonesia</h3>
 
-<p align="center">
-  <img src="./profile.svg" alt="Siluet" width="400" />
-</p>
+<svg xmlns="http://w3.org" viewBox="0 0 100 100" width="200" height="200">
+  <style>
+    /* Efek animasi fade-in-out atau berdenyut pada siluet */
+    .siluet-animasi {
+      fill: #1A1A1A; /* Mengubah warna menjadi siluet gelap */
+      animation: pulse 3s infinite ease-in-out;
+    }
+
+    @keyframes pulse {
+      0% { opacity: 0.4; }
+      50% { opacity: 1; }
+      100% { opacity: 0.4; }
+    }
+  </style>
+  
+  <!-- Ganti tag path di bawah ini dengan path siluet asli Anda -->
+  <path class="siluet-animasi" d="M10 10 H 90 V 90 H 10 Z" />
+</svg>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonnyficky2&label=Profile%20views&color=0e75b6&style=flat" alt="jonnyficky2" /> </p>

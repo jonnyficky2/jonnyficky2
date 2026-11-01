@@ -5,7 +5,7 @@
 <h1>Hi 👋, I'm Jonny Ficky Felyang</h1>
 <h3>A Web Developer from Indonesia</h3>
 
-<img src="profile-animated.svg" width="380" alt="jonnyficky2">
+<img src="myprofile.svg" width="380" alt="jonnyficky2">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9E9E9E&center=true&vCenter=true&width=450&lines=Halo+gua+jonnyficky2;Lagi+belajar+ngoding)](https://git.io/typing-svg)
 
@@ -38,6 +38,8 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jonnyficky2/jonnyficky2/output/github-contribution-grid-snake-dark.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/jonnyficky2/jonnyficky2/output/github-contribution-grid-snake.svg">
+</picture>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:9e9e9e,100:2b2b2b&height=120&section=footer)
 

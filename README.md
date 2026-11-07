@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **jonnyficky2@gmail.com**
 
-- ⚡ Fun fact **I think i am funny**
+- ⚡ Fun fact **I think i'm funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

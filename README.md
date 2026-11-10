@@ -32,7 +32,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jonnyficky2&layout=compact&hide_border=true&bg_color=00000000&title_color=9a9a9a&text_color=9a9a9a" alt="top languages" />
 
 <img src="https://streak-stats.demolab.com/?user=jonnyficky2&theme=transparent&hide_border=true&stroke=9a9a9a&ring=9a9a9a&fire=9a9a9a&currStreakNum=9a9a9a&sideNums=9a9a9a&currStreakLabel=9a9a9a&sideLabels=9a9a9a&dates=9a9a9a" alt="streak stats" />
 
